@@ -4,11 +4,11 @@
 The purpose of our analysis was to determine whether the 9th graders at Thomas High School had had their grades altered after receiving word from the school board that there may be evidence of academic dishonesty. 
 
 ## Results
-- As evidenced by the below images, the district summary is not sigificantly affected by removing the scores of the 9th graders from Thomas High School. The overall reading score went down by 0.3 and the average math score went down by 0.2 points. The overall passing percentage went down by 0.1 points.
+- As evidenced by the below images, the district summary is not sigificantly affected by removing the scores of the 9th graders from Thomas High School. The percent of student passing reading went down by 0.1% and the percent passing math went down by 0.2% points. The overall passing percentage for the district went down by 0.3% points.
 
 District Summary Before:
 
-![District Summary Before](
+![District Summary Before](Images/District_Summary_Before.png)
 
 District Summary After:
 
@@ -74,4 +74,4 @@ By School Type After:
 ![School Type After](Images/School_Type_After.png)
 
 ## Summary
-One change that came from removing the ninth grade scores from Thomas High School was the overall percentage of students passing, which fell by 0.31%. The school had 90.94% of students passing when the 9th graders were included, but only 90.63% were passing once those scores were removed. Another change was the school's rank within the district for overall percentage of students that are passing reading. They fell from 2nd in the district to 3rd after removing these scores. A third change was the amount of total students in the sample. When including these Thomas High School 9th Graders, there were 39,169 students in the overall analysis, but afterwards that number fell to 38,709 after the 460 students were removed so this new total was used to calculate the percentages of students that were passing for each metric we grouped by. Finally, the total district passing percentage dropped from 65.2% to 64.9%
+One change that came from removing the ninth grade scores from Thomas High School was the overall percentage of students passing, which fell by 0.31%. The school had 90.94% of students passing when the 9th graders were included, but only 90.63% were passing once those scores were removed. Another change was the school's rank within the district for overall percentage of students that are passing reading. They fell from 2nd in the district to 3rd after removing these scores. A third change was the amount of total students in the sample. When including these Thomas High School 9th Graders, there were 39,169 students in the overall analysis, but afterwards that number fell to 38,709 after the 460 students were removed so this new total was used to calculate the percentages of students that were passing for each metric we grouped by. Finally, the total district passing percentage dropped from 65.2% to 64.9%. Judging from these results, it would seem that there isn't much evidence of academic dishonesty on the whole for the entire grade as the overall numbers did not change much at all. However, it is possible that a few students who were barely failing had some grades altered to be barely passing since a group of 400 students were able to move the entire district passing percentages (abeit slightly), without really moving the school average scores.
